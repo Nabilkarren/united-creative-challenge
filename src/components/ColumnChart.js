@@ -52,6 +52,7 @@ export default function ColumnChart() {
       chart: {
         type: "bar",
         height: "320px",
+        maxWidth: "100%",
         fontFamily: "Inter, sans-serif",
         toolbar: {
           show: false,
@@ -143,7 +144,7 @@ export default function ColumnChart() {
   });
 
   return (
-    <div class="max-w-sm w-full bg-gray-900 rounded-lg shadow-sm dark:bg-gray-900 p-4 md:p-6">
+    <div class="w-full bg-gray-900 rounded-lg shadow-sm dark:bg-gray-900 p-4 md:p-6">
       <div class="flex justify-between pb-4 mb-4">
         <div>
           <p className="text-white font-medium">Bar Chart</p>

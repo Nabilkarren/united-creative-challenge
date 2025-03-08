@@ -11,4 +11,5 @@ Use `npm run dev` inside the project after installing the required dependency to
 # Used Tech Stack
 
 Framework: Next.js
+
 Frontend Framework: Flowbite

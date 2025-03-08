@@ -1,7 +1,8 @@
 # united-creative-challenge
+
 This repo contains frontend implementation of Figma design for United Creative challenge
 
-To see the preview of the landing page frontend, select the `master` branch and clone the branch. 
+To see the preview of the landing page frontend, select the `master` branch and clone the branch.
 
 Make sure to use `npm -i` inside the project to install the required dependency.
 

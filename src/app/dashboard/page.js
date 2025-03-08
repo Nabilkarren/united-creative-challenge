@@ -64,7 +64,7 @@ export default function Dashboard() {
           </div>
         </div>
 
-        <div className="mt-12 flex justify-between gap-8">
+        <div className="mt-12 flex justify-between gap-8 sm:flex-col md:flex-col lg:flex-row">
           <ColumnChart />
 
           <div className="grid grid-cols-2 w-full gap-8">
